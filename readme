@@ -1,1 +1,4 @@
 This is POC on .net core webapi with kubernetes deployment
+
+
+This is very simple Web api to demonstrate the deploying the web api on docker containers using deployment.yaml file.
